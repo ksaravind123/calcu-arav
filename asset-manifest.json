@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ksaravind123/calcu-arav.git/static/css/main.f855e6bc.css",
+    "main.js": "/ksaravind123/calcu-arav.git/static/js/main.ff93d632.js",
+    "static/js/453.9662275c.chunk.js": "/ksaravind123/calcu-arav.git/static/js/453.9662275c.chunk.js",
+    "index.html": "/ksaravind123/calcu-arav.git/index.html",
+    "main.f855e6bc.css.map": "/ksaravind123/calcu-arav.git/static/css/main.f855e6bc.css.map",
+    "main.ff93d632.js.map": "/ksaravind123/calcu-arav.git/static/js/main.ff93d632.js.map",
+    "453.9662275c.chunk.js.map": "/ksaravind123/calcu-arav.git/static/js/453.9662275c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ff93d632.js"
+  ]
+}
